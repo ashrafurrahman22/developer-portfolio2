@@ -1,11 +1,25 @@
 body{
-    font-family: poppins;
+    font-family: sans-serif;
+}
 
-
+.first-section{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+   
 }
 
 .al-haqqah{
     color: orange;
-
+}
+.first-div{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    text-align: justify;
+}
+.first-div img{
+    width: 80%;
 
 }
