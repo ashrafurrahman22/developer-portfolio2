@@ -1,11 +1,15 @@
 body{
     font-family: sans-serif;
 }
-
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400px;
+}
 .first-section{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 40px;
    
 }
 
@@ -22,4 +26,30 @@ body{
 .first-div img{
     width: 80%;
 
+}
+.second-section{
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    text-align: justify;
+}
+.second-div{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    text-align:left:justify;
+}
+.second-div img{
+    width: 50%;
+
+}
+.link-button{
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px blueviolet;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
 }
