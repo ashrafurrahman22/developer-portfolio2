@@ -38,11 +38,11 @@ h3{
     width: 50%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 10px;
+    
     text-align:left:justify;
 }
 .second-div img{
-    width: 50%;
+    width: 60%;
 
 }
 .link-button{
@@ -53,3 +53,38 @@ h3{
     padding: 10px;
     text-decoration: none;
 }
+#add-padding{
+    padding-right: 20px;
+    
+}
+.third-division{
+    display: flex;
+    width: 86%;
+    margin-left: 5%;
+   
+    
+}
+.last-final{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+    text-align: justify;
+    padding: 20px;
+    border-left: 5px solid;
+    border-color: gray;
+    margin-right: 3%;
+    margin-left: 8%;
+    text-align: center;
+   
+   
+}
+  .h3-color{
+      color: black;
+      font-weight: 500px;
+      background-image: linear-gradient(orange, tomato);
+      padding:5px;
+      border-radius: 10px;
+  }
+  .h1-exp{
+      color: darkblue;
+      
+  }
