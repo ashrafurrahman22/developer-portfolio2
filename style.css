@@ -64,18 +64,19 @@ h3{
     width: 86%;
     margin-left: 5%;
    
+   
     
 }
 .last-final{
     border-radius: 20px;
-    box-shadow: 5px 5px 5px blue;
     text-align: justify;
     padding: 20px;
-    border-left: 5px solid;
-    border-color: gray;
     margin-right: 3%;
     margin-left: 8%;
     text-align: center;
+    border-radius: 20px;
+    background-color:gainsboro;
+    box-shadow: 5px 5px 5px gray;
    
    
 }
